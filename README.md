@@ -9,3 +9,9 @@
 ## Programming Assignment 2: Lexical Scoping
 
 1. cachematrix.R
+
+## Programming Assignment 3: Hospital Quality
+
+1. best.R 
+2. rankhospital.R 
+3. rankall.R 
